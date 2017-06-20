@@ -1,0 +1,22 @@
+
+.container
+{
+  background-color: navajowhite;
+  margin-top: 30px;
+  padding-top: 20px;
+  }
+
+.row {
+  background: purple;
+  padding: 50px;
+}
+
+.col-md-5 {
+  background-color: grey;
+  border-color: black;
+  border-width: 3px;
+
+}
+.col-md-6 {
+  background-color: pink;
+}
